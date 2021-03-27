@@ -1,0 +1,9 @@
+npm init - to create package.json
+npm i --save-dev nodemon //to run server
+npm i --save morgan //console log
+npm i --save body-parser //to extract post data
+npm i --save mongoose // node mongo database connection
+npm i --save multer //able to parse formData (images and files)
+npm i bcrypt --save //https://github.com/kelektiv/node.bcrypt.js/
+npm install jsonwebtoken --save //https://github.com/auth0/node-jsonwebtoken
+https://jwt.io/
